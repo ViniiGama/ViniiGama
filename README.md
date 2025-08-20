@@ -1,6 +1,6 @@
-## Fala pessoa, eu sou o Vinícius, programador Full Stack!😃
+## Fala pessoa, eu sou o Vinícius, desenvolvedor de sistemas!😃
 
-Recentemente conclui o curso de Análise e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra, e atualmente estou estudando sobre programação Back-End!
+Recentemente conclui o curso de Análise e Desenvolvimento de Sistemas pela ETEC de Taboão da Serra, e atualmente estou fazendo graduação na SPTECH - ADS.
 
 Tenho foco no desenvolvimento de sistemas web atuando como fullstack! Possuo conhecimentos sólidos na trindade web em HTML, CSS e JavaScript, aliadas a minha experiência em bancos de dados relacionais, como MySQL. Porém, também tenho prática no uso de tecnologias como C#, Laravel, React-Native e Ionic.
 
@@ -25,10 +25,7 @@ Tenho foco no desenvolvimento de sistemas web atuando como fullstack! Possuo con
 </div>
 
 
-<br clear="both">
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinsg1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=pt-br&hide_border=false&order=1" height="134" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinsg1&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="133" alt="languages graph"  />
+
 
 ## Fique à vontade para entrar em contato!💻
 <div> 
